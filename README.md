@@ -6,6 +6,7 @@ Sneak game in python, the purpose is to make it work using reinforcement learnin
 python3.5+
 
 To make it work you need to install the require libraries.
+Run in your terminal
 
 ```
 pip install -r requirements.txt
