@@ -4,7 +4,7 @@ import os
 from snake import Snake
 from food import FoodSpawer
 
-SCREEN_LENGTH = 400
+SCREEN_LENGTH = 800
 MIDDLE_SCREEN = round(SCREEN_LENGTH / 2)
 
 
@@ -46,7 +46,7 @@ while True:
     window.fill(pygame.Color(225, 225, 225))
 
     for pos in snake.get_body():
-        pygame.draw.rect(window, pygame.Color(255, 0, 0), pygame.Rect(pos[0], pos[1], 20, 20))
+        pygame.draw.rect(window, pygame.Color(0, 0, 0), pygame.Rect(pos[0], pos[1], 20, 20))
 
     pygame.draw.rect(window, pygame.Color(0, 225, 0), pygame.Rect(foodPos[0], foodPos[1], 20, 20))
 
