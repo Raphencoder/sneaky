@@ -5,8 +5,19 @@ Sneak game in python, the purpose is to make it work using reinforcement learnin
 # Use
 python3.5+
 
+Open your terminal
+
+First clone this repo, run in your terminal
+```
+git clone https://github.com/Raphencoder/sneaky.git
+
+```
+Then
+```
+cd sneaky
+```
+
 To make it work you need to install the require libraries.
-Run in your terminal
 
 ```
 pip install -r requirements.txt
