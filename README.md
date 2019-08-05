@@ -19,7 +19,7 @@ cd sneaky
 To make it work you need to install the require libraries.
 
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 Then simply run 
