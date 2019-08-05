@@ -10,7 +10,6 @@ Open your terminal
 First clone this repo, run in your terminal
 ```
 git clone https://github.com/Raphencoder/sneaky.git
-
 ```
 Then
 ```
