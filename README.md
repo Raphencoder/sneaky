@@ -1,5 +1,5 @@
 # Sneaky
-Sneak game in python, the purpose is to make it work using reinforcement learning algorithm
+Sneak game in python, the purpose is to make it work using ~~reinforcement learning algorithm~~ neural network (more simple for now)
 
 
 # Use
@@ -34,7 +34,8 @@ Enjoy :) !
 # To do:
 
  *  Handlle all screen size
- *  Add algo of RL
+ * ~~Add algo of RL~~
+ *  Add Neural network
  *  Comment code
  
 # Reference
